@@ -1,2 +1,2 @@
 # hanabi
-hanabi programming language
+[esolangs link](https://esolangs.org/wiki/Hanabi)
